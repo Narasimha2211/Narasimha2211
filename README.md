@@ -32,12 +32,17 @@ I build systems at the intersection of finance, risk, and machine learning — f
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
+### 🌱 Currently
+
+Working on risk/analytics tooling and digging deeper into RAG and applied ML pipelines. Always open to collaborating on fintech, data, or automation projects — reach out via [LinkedIn](https://www.linkedin.com/in/narasimha-reddy-kasarla-348baa201).
+
 ### 📊 GitHub activity
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=Narasimha2211&hide_border=true" />
 </p>
 
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narasimha2211&hide_border=true&area=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narasimha2211/Narasimha2211/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Narasimha2211/Narasimha2211/output/github-contribution-grid-snake.svg" />
+</picture>
