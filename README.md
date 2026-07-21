@@ -41,8 +41,3 @@ Working on risk/analytics tooling and digging deeper into RAG and applied ML pip
 <p>
   <img src="https://streak-stats.demolab.com/?user=Narasimha2211&hide_border=true" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narasimha2211/Narasimha2211/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Narasimha2211/Narasimha2211/output/github-contribution-grid-snake.svg" />
-</picture>
