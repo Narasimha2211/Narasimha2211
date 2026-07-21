@@ -38,3 +38,11 @@ I build systems at the intersection of finance, risk, and machine learning — f
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Narasimha2211&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha2211&layout=compact&hide_border=true" />
 </p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2211&hide_border=true" />
+</p>
+
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narasimha2211&hide_border=true&area=true" />
+</p>
