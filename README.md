@@ -32,15 +32,10 @@ I build systems at the intersection of finance, risk, and machine learning — f
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Narasimha2211&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha2211&layout=compact&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2211&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Narasimha2211&hide_border=true" />
 </p>
 
 <p>
