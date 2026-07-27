@@ -39,5 +39,5 @@ Working on risk/analytics tooling and digging deeper into RAG and applied ML pip
 ### 📊 GitHub activity
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=Narasimha2211&hide_border=true&r=20260727" />
+  <img src="assets/streak-stats.svg" />
 </p>
